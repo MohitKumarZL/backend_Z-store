@@ -20,8 +20,14 @@
   },
   "homepage": "https://github.com/MohitKumarZL/backend_Z-store#readme",
   "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "dotenv": "^16.5.0",
     "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.15.1",
     "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
   }
 }
